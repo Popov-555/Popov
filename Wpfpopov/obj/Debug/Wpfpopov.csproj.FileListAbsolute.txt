@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov_MarkupCompile.cache
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov_MarkupCompile.lref
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\bin\Debug\Wpfpopov.exe.config
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\bin\Debug\Wpfpopov.exe
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\bin\Debug\Wpfpopov.pdb
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.g.resources
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.Properties.Resources.resources
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.exe
+C:\Users\User\source\repos\Wpfpopov\Wpfpopov\obj\Debug\Wpfpopov.pdb
